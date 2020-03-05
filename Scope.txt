@@ -5,9 +5,9 @@
      Web           Front-End              BackEnd             Banco de Dados           Azure
                                                                                         
 
-                 * Framework             * Framework            * SQL                * Azure           * Solid
-                   - AngularJS (2010)      - .Net Core            - Sql-Server                         * DDD
-                   - Angular 2             - .NodeJS              - Oracle                             * TDD
+* Source          * Framework             * Framework            * SQL                * Azure           * Solid
+  - TFS            - AngularJS (2010)      - .Net Core            - Sql-Server                         * DDD
+  - GitHub         - Angular 2             - .NodeJS              - Oracle                             * TDD
                    - Angular 4 (2016)
                    - Angular 5 (2017) *
                    - Angular 6 e 7 (2018)
