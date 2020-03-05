@@ -1,13 +1,14 @@
 
-     A1              A2                      A3                     A4                   A5                A6
-      o  ----------- o --------------------- o -------------------- o ------------------ o --------------- o
-  Programador     Desenvolvedor         Desenvolvedor          Desenvolvedor        Desenvolvedor      Arquitetura
+     A1              A2                      A3                     A4                   A5             A6             A7
+      o  ----------- o --------------------- o -------------------- o ------------------ o ------------ o ------------ o
+  Programador     Desenvolvedor         Desenvolvedor          Desenvolvedor        Desenvolvedor   Arquitetura       DevOps
      Web           Front-End              BackEnd             Banco de Dados           Azure
                                                                                         
 
-* Source          * Framework             * Framework            * SQL                * Azure           * Solid
-  - TFS            - AngularJS (2010)      - .Net Core            - Sql-Server                         * DDD
-  - GitHub         - Angular 2             - .NodeJS              - Oracle                             * TDD
+* Source          * Framework             * Framework            * SQL                * Azure       Boas Práticas 
+												* Solid         * Deploy 
+  - TFS            - AngularJS (2010)      - .Net Core            - Sql-Server                          * DDD              
+  - GitHub         - Angular 2             - .NodeJS              - Oracle                              * TDD
                    - Angular 4 (2016)
                    - Angular 5 (2017) *
                    - Angular 6 e 7 (2018)
