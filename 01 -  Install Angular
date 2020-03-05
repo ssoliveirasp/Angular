@@ -10,3 +10,13 @@ npx -p @angular/cli@1.7.4 ng new angular5app
 
 ## Angular 6(the last CLI version before 7)
 npx -p @angular/cli@6.2.9 ng new angular6app 
+
+
+
+#Publicaçao
+
+https://app.netlify.com/
+
+https://zeit.co/
+
+https://pages.github.com/
