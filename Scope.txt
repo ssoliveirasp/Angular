@@ -1,6 +1,6 @@
 
      A1              A2                      A3                     A4                   A5             A6             A7
-      o  ----------- o --------------------- o -------------------- o ------------------ o ------------ o ------------ o
+     o  ----------- o ------------------ o -------------------- o ------------------ o ------------ o --------- o
   Programador     Desenvolvedor         Desenvolvedor          Desenvolvedor        Desenvolvedor   Arquitetura       DevOps
      Web           Front-End              BackEnd             Banco de Dados           Azure
                                                                                         
@@ -35,8 +35,9 @@
                     - Grunt
                     - Gulp
                     - Webpacks
-                                            
-
+                   
+		 * Transpile  
+                    - Babel
      							   
 Projeto
 
@@ -70,7 +71,9 @@ Projeto
        # Automatizador
           = Gulp
           = Grunt
-
+    
+       # Transpilar
+          = Babel
 
     Versao 1.2.B02 (GoHorse)
 
