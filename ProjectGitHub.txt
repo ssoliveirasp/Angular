@@ -9,3 +9,7 @@ https://github.com/anihalaney/rwa-trivia/tree/part-1
 
 //Suite de Components
 https://www.npmtrends.com/@angular/material-vs-ngx-bootstrap-vs-onsenui-vs-primeng-vs-uikit
+
+
+//teste adicionar Package
+https://bundlephobia.com/
