@@ -10,26 +10,27 @@
   - TFS            - AngularJS (2010)      - .Net Core            - Sql-Server                          # DDD              
   - GitHub         - Angular 2             - .NodeJS              - Oracle                              # TDD
                    - Angular 4 (2016)
-                   - Angular 5 (2017) *
-                   - Angular 6 e 7 (2018)
-                   - Angular 8 e 9 (2019)
-                   - Jquery
-                   - Sharepoint
-
-                 * PWA
-                   - Ionic
-
-                 * Checar Sintatica     * Pesquisas             * NoSQL
-                   - LsLint                - ElasticSearch        - MongoDB
-
-		 * Pacotes              * Cache Distribuido
-                   - NPM                   - Redis
-                   - Bower
-				        * Mensageria
+* Net              - Angular 5 (2017) *
+  - VS 2003        - Angular 6 e 7 (2018)
+    1.1            - Angular 8 e 9 (2019)
+                   - Jquery 
+  - VS 2005        
+    2.0 e 3.0     * Sharepoint 
+  - VS 2010
+    4.0           * PWA
+  - VS 2012        - Ionic
+    4.5
+  - VS 2015      * Checar Sintatica     * Pesquisas             * NoSQL
+    .Core 1.0     - LsLint                - ElasticSearch        - MongoDB
+    4.6
+  		 * Pacotes              * Cache Distribuido
+  - VS 2017       - NPM                   - Redis
+    .Core 2.0     - Bower
+    4.7				        * Mensageria
 	         * Components              - RabbitMQ
-                   - Bootstrap
-                   - Angular Material
-                   - UiKit
+  - VS 2019        - Bootstrap
+    .Core 3.1      - Angular Material
+    4.8            - UiKit
 
                  * Automatizador
                     - Grunt
