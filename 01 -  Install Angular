@@ -12,6 +12,10 @@ npx -p @angular/cli@1.7.4 ng new angular5app
 npx -p @angular/cli@6.2.9 ng new angular6app 
 
 
+#What´s the version?
+ng --version or short ng v
+
+npm list -global --depth 0
 
 #Publicaçao
 
