@@ -1,0 +1,15 @@
+
+//storybookjs
+https://github.com/storybookjs/storybook
+https://storybooks-angular.netlify.com/?path=/story/welcome--to-storybook
+
+//real-world-app-part
+https://blog.realworldfullstack.io/real-world-app-part-24-angular-workspace-69345d32e00e
+https://github.com/anihalaney/rwa-trivia/tree/part-1
+
+//Suite de Components
+https://www.npmtrends.com/@angular/material-vs-ngx-bootstrap-vs-onsenui-vs-primeng-vs-uikit
+
+
+//teste adicionar Package
+https://bundlephobia.com/
